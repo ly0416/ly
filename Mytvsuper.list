@@ -1,6 +1,7 @@
 # 内容：Mytvsuper
 # 域名关键字匹配
 DOMAIN-KEYWORD,mytvsuper
+DOMAIN-KEYWORD,apkmirror
 DOMAIN-KEYWORD,emotn
 DOMAIN-KEYWORD,app.emotn
 DOMAIN-KEYWORD,emotn.store
@@ -8,6 +9,7 @@ DOMAIN-KEYWORD,TV Boxes
 DOMAIN-KEYWORD,Android TV
 # 域名后缀匹配
 DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,emotn.com
 DOMAIN-SUFFIX,emotn.store/p/dl.html
 DOMAIN-SUFFIX,app.emotn.com
