@@ -1,0 +1,7 @@
+# 内容：Mytvsuper
+# 域名关键字匹配
+DOMAIN-KEYWORD,mytvsuper
+DOMAIN-KEYWORD,emotn
+# 域名后缀匹配
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,emotn.com
